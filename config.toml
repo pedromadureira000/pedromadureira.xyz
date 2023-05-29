@@ -1,7 +1,7 @@
 baseURL = 'http://pedromadureira.xyz/'
 languageCode = "en-us"
 title = 'Pedro Madureira'
-theme = "lekh"
+theme = "dark_lekh"
 paginate = 10
 
 [params]
